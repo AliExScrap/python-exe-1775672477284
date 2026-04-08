@@ -1,2 +1,5 @@
-# python-exe-1775672477284
-Python to EXE - n8nLauncher
+# n8nLauncher
+
+Python app compiled to Windows EXE via GitHub Actions.
+
+Le build démarre automatiquement via GitHub Actions.
